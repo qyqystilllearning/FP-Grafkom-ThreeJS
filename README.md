@@ -136,13 +136,16 @@ npm run build
 
 ## Asset Requirements
 
-⚠️ **Important:** Based on the `.gitignore` file, the 3D model file might not be included in the repository if it is too large.
+⚠️ **Important:**
+The 3D model file is excluded from this repository due to its large size.
 
-For the application to run correctly, ensure you have the 3D model file:
-1. **File Name:** `ruanganfix.glb`
-2. **Location:** Save inside the `public/models/` folder.
+**You must download the asset manually for the app to work:**
 
-If this file is missing, the screen will display an empty gray background without the room object.
+1. 📥 **Download:** [**Click here to download `ruanganfix.glb`**](https://drive.google.com/file/d/13Hs3FmpdKLY0ko1xc78KKBBEiETlLzFp/view?usp=sharing)
+2. 📂 **Install:** Place the downloaded file into the `public/models/` folder.
+   - Path: `public/models/ruanganfix.glb`
+
+_Without this file, the application will load a blank gray scene._
 
 ## How to Contribute
 
