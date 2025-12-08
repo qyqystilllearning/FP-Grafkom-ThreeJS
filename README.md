@@ -141,7 +141,7 @@ The 3D model file is excluded from this repository due to its large size.
 
 **You must download the asset manually for the app to work:**
 
-1. 📥 **Download:** [**Click here to download `ruanganfix.glb`**](https://drive.google.com/file/d/13Hs3FmpdKLY0ko1xc78KKBBEiETlLzFp/view?usp=sharing)
+1. 📥 **Download:** [**Click here to download ruanganfix.glb**](https://drive.google.com/file/d/13Hs3FmpdKLY0ko1xc78KKBBEiETlLzFp/view?usp=sharing)
 2. 📂 **Install:** Place the downloaded file into the `public/models/` folder.
    - Path: `public/models/ruanganfix.glb`
 
