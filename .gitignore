@@ -1,22 +1,17 @@
-# Folder raksasa yang tidak perlu diupload (bisa diinstall ulang pakai npm install)
 node_modules/
 
-# Hasil build (produk jadi)
 dist/
 dist-ssr/
 
-# File log error
 *.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# File environment (biasanya berisi password/kunci rahasia, jangan diupload)
 .env
 .env.local
 .env.*.local
 
-# Editor directories and files (Settingan personal laptopmu)
 .vscode/*
 !.vscode/extensions.json
 .idea
@@ -31,9 +26,6 @@ yarn-error.log*
 *.gltf
 public/models/ruanganfix.glb
 
-# Vite specific
 *.local
 
-# Catatan Tambahan:
-# File .glb di public/models/ BOLEH diupload selama ukurannya di bawah 100MB.
-# Kalau di atas 100MB, GitHub akan menolaknya (butuh Git LFS).
+public/models/noon_grass_4k.exr

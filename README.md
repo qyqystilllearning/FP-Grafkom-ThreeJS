@@ -141,7 +141,7 @@ The 3D model file is excluded from this repository due to its large size.
 
 **You must download the asset manually for the app to work:**
 
-1. 📥 **Download:** [**Click here to download ruanganfix.glb**](https://drive.google.com/file/d/13Hs3FmpdKLY0ko1xc78KKBBEiETlLzFp/view?usp=sharing)
+1. 📥 **Download:** [**Click here to download ruanganfix.glb**](https://drive.google.com/file/d/1OGZqnMg5SLr5EgaedI_bKSWwsy6oT4Qq/view?usp=sharing) and [**the HDRI background**](https://drive.google.com/file/d/1JKWDm3x4Tnpn8qwfdQISYMHwRIkFqVvE/view?usp=sharing)
 2. 📂 **Install:** Place the downloaded file into the `public/models/` folder.
    - Path: `public/models/ruanganfix.glb`
 
@@ -156,3 +156,9 @@ Contributions are highly welcome! Please open an issue or pull request for bug f
 3. Commit your changes (`git commit -m 'Add cool feature'`).
 4. Push to the branch (`git push origin cool-feature`).
 5. Create a Pull Request.
+
+## Credits
+- Desk and Chair : "School Desk and Chair" (https://skfb.ly/6xDtY) by T I A N is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- AC : "AC" (https://skfb.ly/o8YAv) by giga is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- Blinds : "Blind curtain" (https://skfb.ly/oUAtW) by Rotax125 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- Whiteboard : "302 Whiteboard" (https://skfb.ly/6wpup) by Morgan is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
