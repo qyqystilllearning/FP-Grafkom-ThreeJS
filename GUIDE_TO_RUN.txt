@@ -1,0 +1,21 @@
+Guide to run the program : 
+1. Clone this repository and download the models:
+git clone https://github.com/qyqystilllearning/FP-Grafkom-ThreeJS.git
+
+Models 
+Room Model : https://drive.google.com/file/d/1OGZqnMg5SLr5EgaedI_bKSWwsy6oT4Qq/view?usp=sharing
+HDRI Skybox : https://drive.google.com/file/d/1JKWDm3x4Tnpn8qwfdQISYMHwRIkFqVvE/view?usp=sharing
+
+2. Navigate to the project directory, copy the model assets to public/models:
+cd FP-Grafkom-ThreeJS
+
+3. Install dependencies:
+npm install
+
+## Usage
+
+1. Run the development server:
+npm run dev
+
+2. Open in browser: Access the local link shown in the terminal, for example: `http://localhost:5173`
+

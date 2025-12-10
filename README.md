@@ -29,7 +29,7 @@ _Built with the tools and technologies:_
 ---
 
 ## Table of Contents
-
+* [Teams](#teams)
 * [Overview](#overview)
 * [Features](#features)
 * [Technologies Used](#technologies-used)
@@ -41,6 +41,13 @@ _Built with the tools and technologies:_
 * [Asset Requirements](#asset-requirements)
 * [How to Contribute](#how-to-contribute)
 * [License](#license)
+
+## Teams
+1. Muhammad Rafly Abdillah - 5025231085
+2. R. Rafif Aqil Aabid Hermawan - 5025231069
+3. Fazle Robby Pratama - 5025231011
+4. Muhammad Rizqy Hidayat - 5025231161
+5. Reino Yuris Kusumanegara - 5025231075
 
 ---
 
@@ -57,6 +64,7 @@ It is designed to load external 3D models (`.glb`) and applies modern rendering 
 ![03-controls](mdassets/03-controls.png)
 ![04-hdri_skybox](mdassets/04-hdri_skybox.png)
 ![05-spinning](mdassets/05-spinning.gif)
+
 
 ---
 
