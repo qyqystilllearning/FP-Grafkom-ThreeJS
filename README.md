@@ -52,11 +52,11 @@ It is designed to load external 3D models (`.glb`) and applies modern rendering 
 
 ## Screenshot
 
-![01-default](mdassets\01-default.png)
-![02-insideclass](mdassets\02-insideclass.png)
-![03-controls](mdassets\03-controls.png)
-![04-hdri_skybox](mdassets\04-hdri_skybox.png)
-![05-spinning](mdassets\05-spinning.gif)
+![01-default](mdassets/01-default.png)
+![02-insideclass](mdassets/02-insideclass.png)
+![03-controls](mdassets/03-controls.png)
+![04-hdri_skybox](mdassets/04-hdri_skybox.png)
+![05-spinning](mdassets/05-spinning.gif)
 
 ---
 
